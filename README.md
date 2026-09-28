@@ -1,4 +1,4 @@
-# 🎨 Mika's Drawing Book
+# Mika's Drawing Book
 
 A simple, friendly drawing app for kids to experiment with digital art. It's a single HTML file: no install, no build step, no accounts. Everything runs in your browser and nothing is uploaded anywhere.
 
@@ -9,8 +9,6 @@ Works on desktop, tablet and phone.
 1. Download `index.html`.
 2. Open it in any modern browser (Chrome, Edge, Firefox, Safari).
 3. Start drawing.
-
-**Host it on GitHub Pages:** push `index.html` to the repo, then enable Pages under *Settings → Pages*.
 
 ## Features
 
@@ -24,21 +22,6 @@ Works on desktop, tablet and phone.
 | 🔤 **Fonts** | Letters (upper and lower case), numbers, punctuation and symbols, each in its own category. Pick a font style, toggle bold/italic, or type your own word and tap the canvas to place it |
 
 Brush size and color (picker + swatches) apply to every tab. For stickers and letters, brush size controls how big they are.
-
-### The ⋮ menu (top right)
-
-- **Canvas**: size presets (Small, Standard, Wide, Full HD, Square, Portrait, A4, Postcard), custom size, transparent background, and History (undo, redo, clear).
-- **File**: save as PNG, save/load project (`.json`), and load an image onto the canvas. A checkbox controls whether the canvas **resizes to the image size**; when off, the image is scaled to fit the current canvas.
-- **About**: a short description and links.
-
-### Quality-of-life extras
-
-- Undo/redo buttons in the header
-- Eyedropper to pick a color from your drawing
-- Transparent background with a real eraser (erases to transparent, not white)
-- PNG exports are named with the date and time
-- Small pop-up messages confirm saves, loads and resizes
-- Canvas scales to fit any screen; touch drawing is supported
 
 ## Keyboard shortcuts
 
@@ -64,4 +47,3 @@ Brush size and color (picker + swatches) apply to every tab. For stickers and le
 ## Credits
 
 Made with ❤️ by [KungPowUnicorn](https://ko-fi.com/kungpowunicorn)
-Source: [github.com/KungPowUnicorn/mdb](https://github.com/KungPowUnicorn/mdb)
