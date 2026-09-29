@@ -10,6 +10,8 @@ Works on desktop, tablet and phone.
 2. Open it in any modern browser (Chrome, Edge, Firefox, Safari).
 3. Start drawing.
 
+Or click [here](https://kungpowunicorn.github.io/mdb/).
+
 ## Features
 
 ### Sidebar tabs (hide or show it with the ☰ button)
@@ -24,19 +26,23 @@ Works on desktop, tablet and phone.
 Brush size and color (picker + swatches) apply to every tab. For stickers and letters, brush size controls how big they are.
 
 ## Keyboard shortcuts
-
+ 
 | Keys | Action |
 | --- | --- |
 | `Ctrl/Cmd + Z` | Undo |
 | `Ctrl/Cmd + Y` or `Ctrl/Cmd + Shift + Z` | Redo |
 | `[` and `]` | Smaller / larger brush |
+| `+` and `-` | Zoom in / out |
+| `V` | Toggle pan mode |
+| `Ctrl/Cmd + S` | Save as PNG |
+| `Delete` or `Backspace` | Clear canvas (asks first) |
 | `Esc` | Close the menu |
-
+ 
 ## Saving and loading
-
+ 
 - **PNG** is a flat image, ready to share or print. Transparency is kept if the background is transparent.
 - **Project (`.json`)** stores the canvas so you can reload it and keep editing later.
-- Drawings are not stored between visits, so save a PNG or project before closing the page.
+- The app also autosaves to this browser and will offer to restore it next time, but that's a convenience, not a backup — export a PNG or project if you want to keep a drawing for sure (autosave is cleared if you clear the canvas or clear your browser data).
 
 ## Notes
 
